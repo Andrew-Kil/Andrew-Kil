@@ -24,7 +24,7 @@ Feel free to contact me if you have any questions or want to collaborate on a pr
 
 #### Actual footage of my foolproof debugging process:
 
-![coding monkey](coding-monkey.gif)
+![coding monkey](https://github.com/Andrew-Kil/Andrew-Kil/blob/master/coding-monkey.gif)
 
 <!--
 **Andrew-Kil/Andrew-Kil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

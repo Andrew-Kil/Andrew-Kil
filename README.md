@@ -1,3 +1,6 @@
+[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-kil&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## URLs
 
 - Portfolio: <a href="andrewkil.com" target="_blank">andrewkil.com</a>

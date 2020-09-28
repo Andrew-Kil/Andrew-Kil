@@ -1,4 +1,9 @@
-[![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=andrew-kil&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-kil&theme=gotham" alt="Andrew's GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=andrew-kil&show_icons=true&theme=gotham" alt="Andrew's GitHub Stats" />
+</p>
+
 
 
 ## URLs

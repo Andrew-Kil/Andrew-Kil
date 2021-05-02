@@ -1,6 +1,4 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew-kil&theme=gotham" alt="Andrew's GitHub Stats" />
-&nbsp;
 <img src="https://github-readme-stats.vercel.app/api?username=andrew-kil&show_icons=true&theme=gotham" alt="Andrew's GitHub Stats" />
 </p>
 

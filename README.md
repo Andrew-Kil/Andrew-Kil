@@ -1,5 +1,9 @@
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=andrew-kil&show_icons=true&theme=gotham" alt="Andrew's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=andrew-kil&show_icons=true&theme=gotham" alt="Andrew's GitHub stats" />
+</p>
+
+<p>
+<img src="https://www.codewars.com/users/AndrewKil/badges/large" alt="Andrew's codewars stats" />
 </p>
 
 
